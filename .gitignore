@@ -43,3 +43,9 @@ config.py
 # OS specific files
 .DS_Store
 Thumbs.db 
+
+# Documentation folder (personal reference)
+Docs/
+
+# Azure configuration
+.azure/ 
